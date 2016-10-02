@@ -1,0 +1,103 @@
+{
+  "login": {
+    "title": "Sign in",
+    "form": {
+      "password": "Password",
+      "password.placeholder": "Your password",
+      "rememberme": "Remember me",
+      "button": "Sign in"
+    },
+    "messages": {
+      "error": {
+        "authentication": "<strong>Failed to sign in!</strong> Please check your credentials and try again."
+      }
+    },
+    "password" : {
+      "forgot": "Did you forget your password?"
+    }
+  },
+  "global": {
+    "title": "JHipsteReact",
+    "browsehappy": "You are using an <strong>outdated</strong> browser. Please <a href=\"http://browsehappy.com/?locale=en\">upgrade your browser</a> to improve your experience.",
+    "menu": {
+      "home": "Anasayfa",
+      "jhipster-needle-menu-add-element": "JHipster will add additional menu entries here (do not translate!)",
+      "entities": {
+        "main": "Entities",
+        "jhipster-needle-menu-add-entry": "JHipster will add additional entities here (do not translate!)"
+      },
+      "account": {
+        "main": "Account",
+        "settings": "Settings",
+        "password": "Password",
+        "sessions": "Sessions",
+        "login": "Sign in",
+        "logout": "Sign out",
+        "register": "Register"
+      },
+      "admin": {
+        "main": "Administration",
+        "gateway": "Gateway",
+        "userManagement": "User management",
+        "tracker": "User tracker",
+        "metrics": "Metrics",
+        "health": "Health",
+        "configuration": "Configuration",
+        "logs": "Logs",
+        "audits": "Audits",
+        "apidocs": "API",
+        "database": "Database",
+        "jhipster-needle-menu-add-admin-element": "JHipster will add additional menu entries here (do not translate!)"
+      },
+      "language": "Language"
+    },
+    "form": {
+      "username": "Username",
+      "password": "Password",
+      "username.placeholder": "Your username",
+      "newpassword": "New password",
+      "newpassword.placeholder": "New password",
+      "confirmpassword": "New password confirmation",
+      "confirmpassword.placeholder": "Confirm the new password",
+      "email": "E-mail",
+      "email.placeholder": "Your e-mail"
+    },
+    "messages": {
+      "info": {
+        "register": "Register a new account"
+      },
+      "error": {
+        "dontmatch": "The password and its confirmation do not match!"
+      },
+      "validate": {
+        "newpassword": {
+          "required": "Your password is required.",
+          "minlength": "Your password is required to be at least 4 characters.",
+          "maxlength": "Your password cannot be longer than 50 characters.",
+          "strength": "Password strength:"
+        },
+        "confirmpassword": {
+          "required": "Your confirmation password is required.",
+          "minlength": "Your confirmation password is required to be at least 4 characters.",
+          "maxlength": "Your confirmation password cannot be longer than 50 characters."
+        },
+        "email": {
+          "required": "Your e-mail is required.",
+          "invalid": "Your e-mail is invalid.",
+          "minlength": "Your e-mail is required to be at least 5 characters.",
+          "maxlength": "Your e-mail cannot be longer than 50 characters."
+        }
+      }
+    },
+    "field": {
+      "id": "ID"
+    },
+    "ribbon": {
+      "dev":"Development"
+    }
+  },
+  "title": "JHipsteReact",
+  "ribbon": {
+    "dev": "Development"
+  }
+}
